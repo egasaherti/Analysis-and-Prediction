@@ -1,2 +1,2 @@
-# Analysis-and-Prediction
+# Analysis-and-Prediction-Using-XGBoost
 Loan Approval Analyst &amp; Prediction
